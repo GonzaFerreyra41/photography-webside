@@ -11,7 +11,7 @@ function Contact() {
           </div>
           <input className='bolder shadow-lg p-3 w-full my-2' type="text" placeholder='Subject' />
           <textarea className='bolder shadow-lg p-3 w-full' cols="30" rows="10" placeholder='Message' ></textarea>
-          <button className='border shadow-lg w-full mt-2 hover:scale-110 ease-in duration-300'>Submit</button>
+          <button className='border shadow-lg w-full mt-4 hover:scale-110 ease-in duration-300'>Submit</button>
         </form>
     </div>
   )
